@@ -1,0 +1,31 @@
+{
+    "variants": {
+        "note=0": { "model": "block/note_block/8ve/3_f_sharp" },
+        "note=1": { "model": "block/note_block/8ve/3_g"       },
+        "note=2": { "model": "block/note_block/8ve/3_g_sharp" },
+        "note=3": { "model": "block/note_block/8ve/3_a"       },
+        "note=4": { "model": "block/note_block/8ve/3_a_sharp" },
+        "note=5": { "model": "block/note_block/8ve/3_b"       },
+        
+        "note=6":  { "model": "block/note_block/8ve/4_c"       },
+        "note=7":  { "model": "block/note_block/8ve/4_c_sharp" },
+        "note=8":  { "model": "block/note_block/8ve/4_d"       },
+        "note=9":  { "model": "block/note_block/8ve/4_d_sharp" },
+        "note=10": { "model": "block/note_block/8ve/4_e"       },
+        "note=11": { "model": "block/note_block/8ve/4_f"       },
+        "note=12": { "model": "block/note_block/8ve/4_f_sharp" },
+        "note=13": { "model": "block/note_block/8ve/4_g"       },
+        "note=14": { "model": "block/note_block/8ve/4_g_sharp" },
+        "note=15": { "model": "block/note_block/8ve/4_a"       },
+        "note=16": { "model": "block/note_block/8ve/4_a_sharp" },
+        "note=17": { "model": "block/note_block/8ve/4_b"       },
+
+        "note=18": { "model": "block/note_block/8ve/5_c"       },        
+        "note=19": { "model": "block/note_block/8ve/5_c_sharp" },
+        "note=20": { "model": "block/note_block/8ve/5_d"       },
+        "note=21": { "model": "block/note_block/8ve/5_d_sharp" },
+        "note=22": { "model": "block/note_block/8ve/5_e"       },
+        "note=23": { "model": "block/note_block/8ve/5_f"       },
+        "note=24": { "model": "block/note_block/8ve/5_f_sharp" }
+    }
+}
